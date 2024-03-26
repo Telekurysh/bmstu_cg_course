@@ -1,0 +1,3 @@
+{
+    "files": ["matrix.py","axis.py","mainwindow.py","myscene.py","nois.py","voxelgrid.py","point.py","main.py","constants.py","vector3.py","cloud.py","camera.py", "mainwindow.ui"]
+}

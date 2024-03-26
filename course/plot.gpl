@@ -1,0 +1,7 @@
+reset
+set title 'Зависимость времени генерации от количества узлов сетки'
+set grid
+set xlabel 'Количество узлов сетки'
+set ylabel 'Время работы, тики'
+set out 'time1.png'
+plot  "time1.txt" u 1:2 w l
